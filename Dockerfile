@@ -8,3 +8,4 @@ libgconf-2-4 \
 libnss3 \
 libxss1 \
 libasound2 \
+&& rm -rf /var/lib/apt/lists/*
